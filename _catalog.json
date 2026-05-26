@@ -1,0 +1,23 @@
+{
+  "collection_title": "测试仓库",
+  "collection_description": "",
+  "author_name": "iamtaotao123",
+  "author_image_path": "_assets/author-intro.png",
+  "updated_at": "2026-05-26 15:36:35",
+  "categories": [
+    {
+      "category_title": "测试书架1",
+      "category_description": "",
+      "category_dir": "测试书架1",
+      "books": [
+        {
+          "job_id": "215aa1e03f99",
+          "project_id": "215aa1e03f99",
+          "book_title": "全栈老赵讲 前端组件库里怎么优雅接入 AI 能力",
+          "readme_path": "测试书架1/全栈老赵讲-前端组件库里怎么优雅接入-AI-能力/README.md",
+          "updated_at": "2026-05-26 15:36:35"
+        }
+      ]
+    }
+  ]
+}
